@@ -5,6 +5,13 @@ date:   2014-05-11 12:15:24
 categories: reading
 ---
 
+---
+layout: post
+title:  "Meeting note, 4/21"
+date:   2014-04-21 16:15:24
+categories: meeting
+---
+
 
 This post was made by Taeyoon Choi on May 12th, 2014 in Brooklyn.
 

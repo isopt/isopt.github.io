@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "glossary"
+title:  "LA Trip"
 date:   2014-05-24 12:15:24
 categories: meeting
 --- 

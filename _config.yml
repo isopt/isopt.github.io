@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "In Search of Personalized Time"
+tagline:          "project repository "
+description:      "In search of Personalazed Time, Project by Taeyoon Choi and E Roon Kang. 2014–2015, Art + Technology Project, Los Angeles County Museum of Art (LACMA)"
+url:              "http://isopt.github.io/"
+
+author:
+  name:           E Roon Kang
+  url:            https://eroonkang.com
+
+paginate:         1
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/poole/poole

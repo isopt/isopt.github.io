@@ -1,60 +1,60 @@
 ---
 layout: post
 title:  "glossary"
-date:   2014-05-24 12:15:24
+date:   2014-04-24 12:20:24
 categories: reading
+author: Taeyoon Choi
 ---
-This posting was made by Taeyoon Choi on April 24th in Brooklyn. 
 
-We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers. 
+We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers.
 
- 
+
 For the past few weeks, E Roon and I have been working with Nick Irvin, our research assistant for the project, on rewriting our project description and conceptualizing the direction of the project. Thanks to Nick, we have been able to make visibile progress. After many revisions, we collected a glossary of words and phrases to define some ambigious points in project description. Making the list of terms also provided an opportunity to engage in conversations about the project from different perspectives. Below is a preliminary list of glossary. To view our live working document of the full list, check out <a href="https://hackpad.com/Elsewhen-Glossary-oHUuh0aIktI">this hackpad.</a>  
- 
- 
+
+
 <img src="https://farm8.staticflickr.com/7309/13977819079_c15a2ab5cb_z.jpg">
 
 
-## To form and to name 
+## To form and to name
 
 * Give form to unformed object, concept, thought
 * Ability and potential to give form to such things or ideas  
-* Naming, enumerating 
+* Naming, enumerating
 
-## Simultaneity 
+## Simultaneity
 
 * Simultaneity is distinct from synchronization
-* Concept of Now 
-* Value of simultaneity 
-* Sleep or downtime 
+* Concept of Now
+* Value of simultaneity
+* Sleep or downtime
 
 ## Inventory of times
 
 * Absolute time
 * Standardized time
-* Synchronized time 
+* Synchronized time
 * Desynchronized time
 * Personalized time
 * Consensus time
-* Real time 
+* Real time
 * Un-real time
 
 ## Presence
 
-* Present 
-* Flexibility 
-* Plasticitiy 
-* Multitude 
-* Collective 
-* Individuation 
- 
-## Sense of place 
+* Present
+* Flexibility
+* Plasticitiy
+* Multitude
+* Collective
+* Individuation
+
+## Sense of place
 
 * Compression
 * space of flows
-* Postmodern space 
-* Everyday and everywhere 
-* Habit and habitat 
+* Postmodern space
+* Everyday and everywhere
+* Habit and habitat
 
 
 
@@ -64,22 +64,22 @@ Roon drawing time and space coordinates.
 
 <img src="https://farm3.staticflickr.com/2902/13977746857_f0bdc050b9_z.jpg">
 
-<img src="https://farm8.staticflickr.com/7384/13977756080_acb3191aaa_z.jpg"> 
+<img src="https://farm8.staticflickr.com/7384/13977756080_acb3191aaa_z.jpg">
 
-Me with glossary on whiteboard. The board says Kickstarter because we are working in part at <a href="http://www.orbitalnyc.com/">Orbital on 155 Rivington street</a>, which used to be Kickstarter HQ. 
+Me with glossary on whiteboard. The board says Kickstarter because we are working in part at <a href="http://www.orbitalnyc.com/">Orbital on 155 Rivington street</a>, which used to be Kickstarter HQ.
 
 <img src="https://farm8.staticflickr.com/7325/14161078531_f0e98d4745_z.jpg">
 
-Nick taking picture of this drawing. 
+Nick taking picture of this drawing.
 
 <img src="https://farm8.staticflickr.com/7104/14025328905_38fbfd997f_z.jpg">
 
-“Jet lag describes the site of love as time in which one is alone, e.g. awake alone in the night, socially less compatible and in this time-space of aloneness one can love and be loved without a division of self and the other.” From <a href="http://www.lttds.org/assets/Andrews-HaegueYang-ENGL.pdf">"Towards Haegue Yang’s Blind Rooms"</a> by Max Andrews. 
+“Jet lag describes the site of love as time in which one is alone, e.g. awake alone in the night, socially less compatible and in this time-space of aloneness one can love and be loved without a division of self and the other.” From <a href="http://www.lttds.org/assets/Andrews-HaegueYang-ENGL.pdf">"Towards Haegue Yang’s Blind Rooms"</a> by Max Andrews.
 
-<img src="https://farm8.staticflickr.com/7273/14002208786_d3f1732cf0_z.jpg"> 
+<img src="https://farm8.staticflickr.com/7273/14002208786_d3f1732cf0_z.jpg">
 
-Inventory of times. 
+Inventory of times.
 
 <img src="https://farm3.staticflickr.com/2915/14002208966_375aeeabd7_z.jpg">
- 
-Coordinates, symbols and metrics. 
+
+Coordinates, symbols and metrics.

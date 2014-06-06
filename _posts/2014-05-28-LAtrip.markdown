@@ -1,35 +1,33 @@
 ---
 layout: post
 title:  "LA Trip"
-date:   2014-05-24 12:15:24
+date:   2014-06-24 12:15:24
 categories: meeting
---- 
+author: Taeyoon Choi
+---
 
-
-This post was made by Taeyoon Choi on June 4th, 2014 in Brooklyn. 
- 
-We went to LA for our first visit to LACMA Art + Technology Lab. 
+We went to LA for our first visit to LACMA Art + Technology Lab.
 
 <img src="https://farm4.staticflickr.com/3880/14353046714_5467d28444_c.jpg">
 
-Looking out the plane's window. 
+Looking out the plane's window.
 
 <img src="https://farm6.staticflickr.com/5588/14167455528_b33b969baa.jpg">
 
-We got to see the world's tallest building in the making at the Gensler officer. 
+We got to see the world's tallest building in the making at the Gensler officer.
 
 <img src="https://farm4.staticflickr.com/3847/14374270933_118a060f85_z.jpg">
 
-Typical day at Art + Technology Lab at LACMA, meeting with advisors and curators. 
+Typical day at Art + Technology Lab at LACMA, meeting with advisors and curators.
 
 <img src="https://farm4.staticflickr.com/3838/14374271793_9ca9f7dcb5_z.jpg">
 
-We also went to JPL's facility and saw Mars Rover in action on earth. 
+We also went to JPL's facility and saw Mars Rover in action on earth.
 
-<img src="https://farm6.staticflickr.com/5522/14352530012_768b417796_z.jpg"> 
+<img src="https://farm6.staticflickr.com/5522/14352530012_768b417796_z.jpg">
 
 Overall, it was a  great trip!
 
 <img src = "https://farm3.staticflickr.com/2936/14350767571_6f64b26b56_z.jpg">
 
-More on our trip on LACMA <a href="http://lacma.wordpress.com/2014/05/22/art-technology-lab-artists-visit-l-a/">blog</a>. 
+More on our trip on LACMA <a href="http://lacma.wordpress.com/2014/05/22/art-technology-lab-artists-visit-l-a/">blog</a>.

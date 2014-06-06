@@ -3,6 +3,7 @@ layout: post
 title:  "LACMA Art + Technology Lab annouced 5 grant recipients"
 date:   2014-04-09 16:15:24
 categories: meeting
+author: Taeyoon Choi
 ---
 LACMA Art + Technology Lab annouced 5 grant recipients. We are delighted to be part of this initiative. Here are some press materials.
 

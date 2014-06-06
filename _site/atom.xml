@@ -4,7 +4,7 @@
  <title>I&mdash;S&mdash;O&mdash;P&mdash;T</title>
  <link href="http://isopt.github.io//atom.xml" rel="self"/>
  <link href="http://isopt.github.io//"/>
- <updated>2014-06-06T14:39:19-04:00</updated>
+ <updated>2014-06-06T15:05:33-04:00</updated>
  <id>http://isopt.github.io/</id>
  <author>
    <name>E Roon Kang</name>
@@ -13,13 +13,44 @@
 
  
  <entry>
-   <title>glossary</title>
-   <link href="http://isopt.github.io//reading/2014/05/24/words/"/>
-   <updated>2014-05-24T08:15:24-04:00</updated>
-   <id>http://isopt.github.io//reading/2014/05/24/words</id>
-   <content type="html">&lt;p&gt;This posting was made by Taeyoon Choi on April 24th in Brooklyn. &lt;/p&gt;
+   <title>LA Trip</title>
+   <link href="http://isopt.github.io//meeting/2014/06/24/LAtrip/"/>
+   <updated>2014-06-24T08:15:24-04:00</updated>
+   <id>http://isopt.github.io//meeting/2014/06/24/LAtrip</id>
+   <content type="html">&lt;p&gt;We went to LA for our first visit to LACMA Art + Technology Lab.&lt;/p&gt;
 
-&lt;p&gt;We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3880/14353046714_5467d28444_c.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking out the plane&amp;#39;s window.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5588/14167455528_b33b969baa.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We got to see the world&amp;#39;s tallest building in the making at the Gensler officer.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3847/14374270933_118a060f85_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Typical day at Art + Technology Lab at LACMA, meeting with advisors and curators.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3838/14374271793_9ca9f7dcb5_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We also went to JPL&amp;#39;s facility and saw Mars Rover in action on earth.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5522/14352530012_768b417796_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall, it was a  great trip!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src = &quot;https://farm3.staticflickr.com/2936/14350767571_6f64b26b56_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;More on our trip on LACMA &lt;a href=&quot;http://lacma.wordpress.com/2014/05/22/art-technology-lab-artists-visit-l-a/&quot;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>glossary</title>
+   <link href="http://isopt.github.io//reading/2014/04/24/words/"/>
+   <updated>2014-04-24T08:20:24-04:00</updated>
+   <id>http://isopt.github.io//reading/2014/04/24/words</id>
+   <content type="html">&lt;p&gt;We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers.&lt;/p&gt;
 
 &lt;p&gt;For the past few weeks, E Roon and I have been working with Nick Irvin, our research assistant for the project, on rewriting our project description and conceptualizing the direction of the project. Thanks to Nick, we have been able to make visibile progress. After many revisions, we collected a glossary of words and phrases to define some ambigious points in project description. Making the list of terms also provided an opportunity to engage in conversations about the project from different perspectives. Below is a preliminary list of glossary. To view our live working document of the full list, check out &lt;a href=&quot;https://hackpad.com/Elsewhen-Glossary-oHUuh0aIktI&quot;&gt;this hackpad.&lt;/a&gt;  &lt;/p&gt;
 
@@ -30,16 +61,16 @@
 &lt;ul&gt;
 &lt;li&gt;Give form to unformed object, concept, thought&lt;/li&gt;
 &lt;li&gt;Ability and potential to give form to such things or ideas&lt;br&gt;&lt;/li&gt;
-&lt;li&gt;Naming, enumerating &lt;/li&gt;
+&lt;li&gt;Naming, enumerating&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2&gt;Simultaneity&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Simultaneity is distinct from synchronization&lt;/li&gt;
-&lt;li&gt;Concept of Now &lt;/li&gt;
-&lt;li&gt;Value of simultaneity &lt;/li&gt;
-&lt;li&gt;Sleep or downtime &lt;/li&gt;
+&lt;li&gt;Concept of Now&lt;/li&gt;
+&lt;li&gt;Value of simultaneity&lt;/li&gt;
+&lt;li&gt;Sleep or downtime&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2&gt;Inventory of times&lt;/h2&gt;
@@ -47,23 +78,23 @@
 &lt;ul&gt;
 &lt;li&gt;Absolute time&lt;/li&gt;
 &lt;li&gt;Standardized time&lt;/li&gt;
-&lt;li&gt;Synchronized time &lt;/li&gt;
+&lt;li&gt;Synchronized time&lt;/li&gt;
 &lt;li&gt;Desynchronized time&lt;/li&gt;
 &lt;li&gt;Personalized time&lt;/li&gt;
 &lt;li&gt;Consensus time&lt;/li&gt;
-&lt;li&gt;Real time &lt;/li&gt;
+&lt;li&gt;Real time&lt;/li&gt;
 &lt;li&gt;Un-real time&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2&gt;Presence&lt;/h2&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Present &lt;/li&gt;
-&lt;li&gt;Flexibility &lt;/li&gt;
-&lt;li&gt;Plasticitiy &lt;/li&gt;
-&lt;li&gt;Multitude &lt;/li&gt;
-&lt;li&gt;Collective &lt;/li&gt;
-&lt;li&gt;Individuation &lt;/li&gt;
+&lt;li&gt;Present&lt;/li&gt;
+&lt;li&gt;Flexibility&lt;/li&gt;
+&lt;li&gt;Plasticitiy&lt;/li&gt;
+&lt;li&gt;Multitude&lt;/li&gt;
+&lt;li&gt;Collective&lt;/li&gt;
+&lt;li&gt;Individuation&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2&gt;Sense of place&lt;/h2&gt;
@@ -71,9 +102,9 @@
 &lt;ul&gt;
 &lt;li&gt;Compression&lt;/li&gt;
 &lt;li&gt;space of flows&lt;/li&gt;
-&lt;li&gt;Postmodern space &lt;/li&gt;
-&lt;li&gt;Everyday and everywhere &lt;/li&gt;
-&lt;li&gt;Habit and habitat &lt;/li&gt;
+&lt;li&gt;Postmodern space&lt;/li&gt;
+&lt;li&gt;Everyday and everywhere&lt;/li&gt;
+&lt;li&gt;Habit and habitat&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5518/13977738959_546c767823_z.jpg&quot;&gt;&lt;/p&gt;
@@ -82,60 +113,25 @@
 
 &lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2902/13977746857_f0bdc050b9_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7384/13977756080_acb3191aaa_z.jpg&quot;&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7384/13977756080_acb3191aaa_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Me with glossary on whiteboard. The board says Kickstarter because we are working in part at &lt;a href=&quot;http://www.orbitalnyc.com/&quot;&gt;Orbital on 155 Rivington street&lt;/a&gt;, which used to be Kickstarter HQ. &lt;/p&gt;
+&lt;p&gt;Me with glossary on whiteboard. The board says Kickstarter because we are working in part at &lt;a href=&quot;http://www.orbitalnyc.com/&quot;&gt;Orbital on 155 Rivington street&lt;/a&gt;, which used to be Kickstarter HQ.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7325/14161078531_f0e98d4745_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Nick taking picture of this drawing. &lt;/p&gt;
+&lt;p&gt;Nick taking picture of this drawing.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7104/14025328905_38fbfd997f_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;“Jet lag describes the site of love as time in which one is alone, e.g. awake alone in the night, socially less compatible and in this time-space of aloneness one can love and be loved without a division of self and the other.” From &lt;a href=&quot;http://www.lttds.org/assets/Andrews-HaegueYang-ENGL.pdf&quot;&gt;&amp;quot;Towards Haegue Yang’s Blind Rooms&amp;quot;&lt;/a&gt; by Max Andrews. &lt;/p&gt;
+&lt;p&gt;“Jet lag describes the site of love as time in which one is alone, e.g. awake alone in the night, socially less compatible and in this time-space of aloneness one can love and be loved without a division of self and the other.” From &lt;a href=&quot;http://www.lttds.org/assets/Andrews-HaegueYang-ENGL.pdf&quot;&gt;&amp;quot;Towards Haegue Yang’s Blind Rooms&amp;quot;&lt;/a&gt; by Max Andrews.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7273/14002208786_d3f1732cf0_z.jpg&quot;&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7273/14002208786_d3f1732cf0_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Inventory of times. &lt;/p&gt;
+&lt;p&gt;Inventory of times.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2915/14002208966_375aeeabd7_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;Coordinates, symbols and metrics. &lt;/p&gt;
-</content>
- </entry>
- 
- <entry>
-   <title>LA Trip</title>
-   <link href="http://isopt.github.io//meeting/2014/05/24/LAtrip/"/>
-   <updated>2014-05-24T08:15:24-04:00</updated>
-   <id>http://isopt.github.io//meeting/2014/05/24/LAtrip</id>
-   <content type="html">&lt;p&gt;This post was made by Taeyoon Choi on June 4th, 2014 in Brooklyn. &lt;/p&gt;
-
-&lt;p&gt;We went to LA for our first visit to LACMA Art + Technology Lab. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3880/14353046714_5467d28444_c.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Looking out the plane&amp;#39;s window. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5588/14167455528_b33b969baa.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;We got to see the world&amp;#39;s tallest building in the making at the Gensler officer. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3847/14374270933_118a060f85_z.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;Typical day at Art + Technology Lab at LACMA, meeting with advisors and curators. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3838/14374271793_9ca9f7dcb5_z.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;We also went to JPL&amp;#39;s facility and saw Mars Rover in action on earth. &lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5522/14352530012_768b417796_z.jpg&quot;&gt; &lt;/p&gt;
-
-&lt;p&gt;Overall, it was a  great trip!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src = &quot;https://farm3.staticflickr.com/2936/14350767571_6f64b26b56_z.jpg&quot;&gt;&lt;/p&gt;
-
-&lt;p&gt;More on our trip on LACMA &lt;a href=&quot;http://lacma.wordpress.com/2014/05/22/art-technology-lab-artists-visit-l-a/&quot;&gt;blog&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Coordinates, symbols and metrics.&lt;/p&gt;
 </content>
  </entry>
  
@@ -144,9 +140,7 @@
    <link href="http://isopt.github.io//reading/2014/04/24/First-reading-list/"/>
    <updated>2014-04-24T08:15:24-04:00</updated>
    <id>http://isopt.github.io//reading/2014/04/24/First-reading-list</id>
-   <content type="html">&lt;p&gt;This posting was made by Taeyoon Choi on April 24th in Brooklyn. &lt;/p&gt;
-
-&lt;p&gt;We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers. &lt;/p&gt;
+   <content type="html">&lt;p&gt;We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5271/14024728195_9822de79cc_z.jpg&quot;&gt;&lt;/p&gt;
 
@@ -164,9 +158,9 @@
 
 &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5084/14025321694_974ca973b5_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;As we read, we are trying to keep notes of our thoughts and conversations. We will be sharing these as we go on and we hope to aggregate in some kind of publication later on. Nick and I are reading Stiegler&amp;#39;s &lt;em&gt;Technics and Time 1&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;As we read, we are trying to keep notes of our thoughts and conversations. We will be sharing these as we go on and we hope to aggregate in some kind of publication later on. Nick and I are reading Stiegler&amp;#39;s &lt;em&gt;Technics and Time 1&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Stay tuned for the updates and feel free to contact us if you&amp;#39;d like to share thoughts on the readings. &lt;/p&gt;
+&lt;p&gt;Stay tuned for the updates and feel free to contact us if you&amp;#39;d like to share thoughts on the readings.&lt;/p&gt;
 </content>
  </entry>
  
@@ -175,9 +169,7 @@
    <link href="http://isopt.github.io//meeting/2014/04/21/meeting-notes/"/>
    <updated>2014-04-21T12:15:24-04:00</updated>
    <id>http://isopt.github.io//meeting/2014/04/21/meeting-notes</id>
-   <content type="html">&lt;p&gt;This posting was made by Taeyoon Choi on April 21st, 2014 in Brooklyn. &lt;/p&gt;
-
-&lt;p&gt;E Roon, Nick and I met on 4/21 3~6pm in 155 Rivington street, New York City.&lt;/p&gt;
+   <content type="html">&lt;p&gt;E Roon, Nick and I met on 4/21 3~6pm in 155 Rivington street, New York City.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5467/14021154681_43b8ce7c0d_z.jpg&quot;&gt;
 &lt;img src=&quot;https://farm3.staticflickr.com/2930/14044345473_22f739f365_z.jpg&quot;&gt;
@@ -188,7 +180,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2912/14001047196_81550c0379_z.jpg&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;This photo&amp;#39;s from a different but related meeting, where we were prototyping icons for the project. This photograph This photograph is inspired by Tamagochi-like games where players trade virtual items in real life. &lt;/p&gt;
+&lt;p&gt;This photo&amp;#39;s from a different but related meeting, where we were prototyping icons for the project. This photograph This photograph is inspired by Tamagochi-like games where players trade virtual items in real life.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5479/14149025146_6d0b513b17_o.jpg&quot;&gt;&lt;/p&gt;
 </content>

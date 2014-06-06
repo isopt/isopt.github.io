@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>In Search of Personalized Time</title>
+ <title>I&mdash;S&mdash;O&mdash;P&mdash;T</title>
  <link href="http://isopt.github.io//atom.xml" rel="self"/>
  <link href="http://isopt.github.io//"/>
- <updated>2014-06-05T14:04:57-04:00</updated>
+ <updated>2014-06-06T14:39:19-04:00</updated>
  <id>http://isopt.github.io/</id>
  <author>
    <name>E Roon Kang</name>
@@ -13,11 +13,13 @@
 
  
  <entry>
-   <title>Glossary</title>
-   <link href="http://isopt.github.io//reading/2014/05/11/Glossary/"/>
-   <updated>2014-05-11T08:15:24-04:00</updated>
-   <id>http://isopt.github.io//reading/2014/05/11/Glossary</id>
-   <content type="html">&lt;p&gt;This post was made by Taeyoon Choi on May 12th, 2014 in Brooklyn.&lt;/p&gt;
+   <title>glossary</title>
+   <link href="http://isopt.github.io//reading/2014/05/24/words/"/>
+   <updated>2014-05-24T08:15:24-04:00</updated>
+   <id>http://isopt.github.io//reading/2014/05/24/words</id>
+   <content type="html">&lt;p&gt;This posting was made by Taeyoon Choi on April 24th in Brooklyn. &lt;/p&gt;
+
+&lt;p&gt;We ordered some books that are related to the project. We plan to take notes and share thoughts on time and technology over the next few months. We are especially interested in French philosophers such as Bernard Stiegler and Gilbert Simondon as well as non-academic thinkers. &lt;/p&gt;
 
 &lt;p&gt;For the past few weeks, E Roon and I have been working with Nick Irvin, our research assistant for the project, on rewriting our project description and conceptualizing the direction of the project. Thanks to Nick, we have been able to make visibile progress. After many revisions, we collected a glossary of words and phrases to define some ambigious points in project description. Making the list of terms also provided an opportunity to engage in conversations about the project from different perspectives. Below is a preliminary list of glossary. To view our live working document of the full list, check out &lt;a href=&quot;https://hackpad.com/Elsewhen-Glossary-oHUuh0aIktI&quot;&gt;this hackpad.&lt;/a&gt;  &lt;/p&gt;
 
@@ -99,6 +101,41 @@
 &lt;p&gt;&lt;img src=&quot;https://farm3.staticflickr.com/2915/14002208966_375aeeabd7_z.jpg&quot;&gt;&lt;/p&gt;
 
 &lt;p&gt;Coordinates, symbols and metrics. &lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>LA Trip</title>
+   <link href="http://isopt.github.io//meeting/2014/05/24/LAtrip/"/>
+   <updated>2014-05-24T08:15:24-04:00</updated>
+   <id>http://isopt.github.io//meeting/2014/05/24/LAtrip</id>
+   <content type="html">&lt;p&gt;This post was made by Taeyoon Choi on June 4th, 2014 in Brooklyn. &lt;/p&gt;
+
+&lt;p&gt;We went to LA for our first visit to LACMA Art + Technology Lab. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3880/14353046714_5467d28444_c.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking out the plane&amp;#39;s window. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5588/14167455528_b33b969baa.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We got to see the world&amp;#39;s tallest building in the making at the Gensler officer. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3847/14374270933_118a060f85_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Typical day at Art + Technology Lab at LACMA, meeting with advisors and curators. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm4.staticflickr.com/3838/14374271793_9ca9f7dcb5_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We also went to JPL&amp;#39;s facility and saw Mars Rover in action on earth. &lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm6.staticflickr.com/5522/14352530012_768b417796_z.jpg&quot;&gt; &lt;/p&gt;
+
+&lt;p&gt;Overall, it was a  great trip!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src = &quot;https://farm3.staticflickr.com/2936/14350767571_6f64b26b56_z.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;More on our trip on LACMA &lt;a href=&quot;http://lacma.wordpress.com/2014/05/22/art-technology-lab-artists-visit-l-a/&quot;&gt;blog&lt;/a&gt;. &lt;/p&gt;
 </content>
  </entry>
  

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "LA Trip"
-date:   2014-06-24 12:15:24
+date:   2014-05-28 12:15:24
 categories: meeting
 author: Taeyoon Choi
 ---

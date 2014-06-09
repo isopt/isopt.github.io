@@ -10,7 +10,7 @@ Quantification is at the heart of modern societies on all levels – from GDP an
 
 This reminds me of the garment conveyors that we see in every laundromat. As soon as I hook a cloth on, it slowly and apathetically moves my garment towards the back of the room, no matter what type or color the garment is. Whenever I see a clock, or when I sync my Gmail inbox, I feel like I'm hooking myself onto this giant conveyor, moving at a constant speed, where everything is flattened into a single strand of continuous movement.
 
-{% img /public/img/Standard_Garment_Conveyor.jpg 500 height 'Regular Garment Conveyor' 'Regular Garment Conveyor' %}
+<img src="/public/img/Standard_Garment_Conveyor.jpg">
 
 However, my perception of time isn't constant or continuous. It is fragmentary, organic, and most of all, malleable. When I daydream on a train, it might only "last" a second, but the train of thought travels further, and time dilates. It seems as if time stands still in the middle of a boring lecture, but it can't move slowly enough when lying down on a Mediterranean beach. This subjective perception of time is dependent on personal experiences, emotions, and memory. It is primarily based on bodily senses.
 

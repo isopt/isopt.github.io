@@ -4,7 +4,7 @@
  <title>I&mdash;S&mdash;O&mdash;P&mdash;T</title>
  <link href="http://isopt.github.io//atom.xml" rel="self"/>
  <link href="http://isopt.github.io//"/>
- <updated>2014-06-09T15:42:22-04:00</updated>
+ <updated>2014-06-13T14:28:55-04:00</updated>
  <id>http://isopt.github.io/</id>
  <author>
    <name>E Roon Kang</name>
@@ -13,10 +13,41 @@
 
  
  <entry>
+   <title>Uneven Measures</title>
+   <link href="http://isopt.github.io//2014/06/13/uneven-measures/"/>
+   <updated>2014-06-13T08:15:24-04:00</updated>
+   <id>http://isopt.github.io//2014/06/13/uneven-measures</id>
+   <content type="html">&lt;p&gt;In early 2000s, a close friend of mine was running a design studio in Shanghai, China, and I visited him one summer for a few days. The following is a story my friend told me over drinks, recounted as clearly as I remember it.&lt;/p&gt;
+
+&lt;p&gt;His studio had been working on a national advertising campaign for a clothing label for several years. Part of his responsibility was to design, print and ship big banners to cover the facades of over a hundred department stores all over the country. It was a time-consuming job—it took a lot of small tweaks to make the banner fit to each facade perfectly.&lt;/p&gt;
+
+&lt;p&gt;Over the years, he would complete and ship designs (shipping could take weeks due to inconsistent road conditions). And like clockwork he would get a call from the store manager, telling him that the banners didn&amp;#39;t fit. This happened far too frequently, these logistics were taking too much of his studio&amp;#39;s time.&lt;/p&gt;
+
+&lt;p&gt;My friend still didn&amp;#39;t have a clue why the measurements didn&amp;#39;t match. A couple of years before, he had asked every department store to remeasure their frames, but the numbers were always inconsistent. So he and his client initiated a new project last year: they hired a person to visit every department store in the country and get the correct facade measurements. It would take months to visit them all, but their hope was to solve the problem once and for all and finally figure out why this had happened in the first place.&lt;/p&gt;
+
+&lt;table class=&quot;image&quot;&gt;
+&lt;caption align=&quot;bottom&quot;&gt;Expressways of China&lt;/caption&gt;
+&lt;img src=&quot;http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Map_of_NTHS_Expressways_of_China.png/1256px-Map_of_NTHS_Expressways_of_China.png&quot; alt=&quot;Expressways of China&quot;/&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The measurement specialist had returned a few weeks before my visit. His findings about the situation was rather significant: it turned out that the tape measures were inconsistent from town to town, and brand to brand! There were other reasons too, but if your tape measures are unreliable, the other reasons don&amp;#39;t really matter.&lt;/p&gt;
+
+&lt;p&gt;I was so struck by that story. It felt like a flash of harsh reality found in a small crevice of the ever-so-smoothly presented world, where we conveniently believe in the reliability of standards.&lt;/p&gt;
+
+&lt;p&gt;After the trip, I came back to US and went to Home Depot one day. Remembering the story, I got three different tape measures off the rack. They came from all over the world. I pulled all of them out to their maximum length—something like 30 feet—only to find that they too, differ slightly in measurement. Even though the difference was small, I had to wonder how the 1700-feet-tall Freedom Tower can stand, and how hundreds of airplanes land safely every day. It left me feeling a little uncomfortable, doubting that there&amp;#39;s anything absolutely concrete in the  world. In the end, everything is an approximation of everything – but that is also, somehow, very comforting.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Route_inspection_problem&quot;&gt;Chinese Postman Problem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Coastline_paradox&quot;&gt;Coastline Paradox&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>To give form</title>
-   <link href="http://isopt.github.io//2014/06/24/to-give-form/"/>
-   <updated>2014-06-24T08:15:24-04:00</updated>
-   <id>http://isopt.github.io//2014/06/24/to-give-form</id>
+   <link href="http://isopt.github.io//2014/06/06/to-give-form/"/>
+   <updated>2014-06-06T08:15:24-04:00</updated>
+   <id>http://isopt.github.io//2014/06/06/to-give-form</id>
    <content type="html">&lt;p&gt;Quantification is at the heart of modern societies on all levels – from GDP and census to personal bank accounts, Dropbox, and Gmail. Everything is constantly changing and we measure each change in various ways in order to feel in control. If there&amp;#39;s one thing that doesn&amp;#39;t change, it is the speed of time passing. Since it is a rare (if not only) constant in our life, time became the indispensable central unit of all kind of measurements.&lt;/p&gt;
 
 &lt;p&gt;This reminds me of the garment conveyors that we see in every laundromat. As soon as I hook a cloth on, it slowly and apathetically moves my garment towards the back of the room, no matter what type or color the garment is. Whenever I see a clock, or when I sync my Gmail inbox, I feel like I&amp;#39;m hooking myself onto this giant conveyor, moving at a constant speed, where everything is flattened into a single strand of continuous movement.&lt;/p&gt;

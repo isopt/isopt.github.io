@@ -517,3 +517,8 @@ ul.post-list li:last-child {
 .wf-active {
   visibility: visible;
 }
+
+caption {
+  //font-size:0.9em;
+  font-style:italic;
+}

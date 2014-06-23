@@ -6,30 +6,17 @@ categories:
 author: Taeyoon Choi
 ---
 
-I had a video call with <a href="http://en.wikipedia.org/wiki/Chris_Malachowsky">Chris Malachowsky</a>, the co-founder of NVIDIA who also serves as an advisor for Art + Technology Lab program at LACMA.  A few days before the meeting, I sent him an email to explain some technical points of interest for the project, and to share rough ideas of the kinds of support we can imagine receiving from his company.   
+I had a video call with <a href="http://en.wikipedia.org/wiki/Chris_Malachowsky">Chris Malachowsky</a>, the co-founder of NVIDIA who also serves as an advisor for Art + Technology Lab program at LACMA.  Here's part of the message I sent him a few days before.
+  
+>"We're interested in creating alternative methods of giving form to time. The idea is to stage a network of clocks (with distributed users behind them) that can synchronize and desynchronize with one another, collectively determining the temporal status of both each part and the whole.
 
- 
- -------- -------- -------- -------- -------- -------- -------- -------- -------- -------- 
+>In our thinking behind the project, we see a resonance with parallel computing. For my part, I am engaging these ideas through using <a href="http://en.wikipedia.org/wiki/Fpga">FPGA</a> and low-level electronics to build prototypes for simple parallel processing.
 
-Dear Chris,
+>In order to further this exploration, I would like to learn more about the research that is done at NVIDIA, by engaging in conversation with engineers about ways of simulating large-scale parallel systems for alternative methods of timekeeping. I am also interested in using the <a href="http://docs.nvidia.com/cuda#axzz35UrmuRuS">CUDA platform</a>, Tesla and GPU hardware in the future.
 
-In Search of Personalized Time is one of the Art + Technology Lab commissions at the Los Angeles County Museum of Art. I am working with a collaborator, designer E Roon Kang, on an interdisciplinary art project about giving form to different senses of temporality.
+>Technical R&D and philosophical investigation are equally important parts of our commission. Being an artist, I feel more at home creating meaning with technology and experimenting with it — I feel less at home with systematic technical research and implementation. For this reason, I am interested in talking with your specialists and learning from their expertise"
+  
 
-We're interested in creating alternative methods of giving form to time. The idea is to stage a network of clocks (with distributed users behind them) that can synchronize and desynchronize with one another, collectively determining the temporal status of both each part and the whole.
-
-In our thinking behind the project, we see a resonance with parallel computing. For my part, I am engaging these ideas through using <a href="http://en.wikipedia.org/wiki/Fpga">FPGA</a> and low-level electronics to build prototypes for simple parallel processing.
-
-In order to further this exploration, I would like to learn more about the research that is done at NVIDIA, by engaging in conversation with engineers about ways of simulating large-scale parallel systems for alternative methods of timekeeping. I am also interested in using the <a href="http://docs.nvidia.com/cuda#axzz35UrmuRuS">CUDA platform</a>, Tesla and GPU hardware in the future.
-
-Technical R&D and philosophical investigation are equally important parts of our commission. Being an artist, I feel more at home creating meaning with technology and experimenting with it — I feel less at home with systematic technical research and implementation. For this reason, I am interested in talking with your specialists and learning from their expertise.
-
-It would be great for our project if NVIDIA could support it by providing access to its resources. In our visit to LA in early September, we would also be excited to visit your research facilities, and have further conversations regarding the possibility of technical collaboration. 
-
-Thank you.
-
-Taeyoon Choi 
-
----- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- ---- 
  
 Thanks to Amy and Joel, the call was scheduled only a week after the initial email. I felt a bit anxious. I didn't feel ready to talk about the project, because he's an expert electrical engineer and I have not yet done extensive research on the theory and practice of parallel and GPU programming. I soon realized that there is no real reason to worry about asking basic questions, and that as an artist I have a good excuse to ask the most fundamental questions of all.
 

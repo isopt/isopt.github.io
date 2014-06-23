@@ -25,13 +25,3 @@ I began to think about the reasons behind my interest in parallel computing and 
 I downloaded CUDA platform and built some sample codes. The first one was Mandelbot which could be generated from GPU and CPU. It was clear to see the difference in frames per second.
 
 <img src="/public/img/cuda.jpg">
-
-At about 2PM we got on the call. Apparently, it was the first time that Chris had had to operate the video call for himself. He was in his home office near San Jose and we were in Orbital.
-
-We talked about the original proposal for the project. It is pleasantly surprising that many of the A+T advisors read our proposal so carefully and provided personal comment. Chris is no exception.
-
-We also talked about our initial visit to LACMA last month. While Chris was the one who suggested meet-ups of the artists and the advisors, he unfortunately wasn't able to join in person. I tried to fill him in about how other grant recipients are taking the advisory relationship to a variety of ways — for example, Rachel is doing a residency at JPL. 
-
-After twenty minutes of convresation, we decided it would be beneficial to visit NVIDIA's research facility in San Jose sometime during the project. More importantly, Chris offered to connect us with scientists and engineers who are working for NVIDIA in New York or Seoul, two places that we are likely to spend most of time. He also offered to locate resources for the project when it becomes the time for implementation. The next step will be to identify what we would like to achieve with this hardware and software environment, as I am still researching technical possibilities and we have not begun designing the project's manifestation. 
-
- 

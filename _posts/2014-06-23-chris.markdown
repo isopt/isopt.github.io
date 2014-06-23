@@ -20,11 +20,11 @@ I had a video call with <a href="http://en.wikipedia.org/wiki/Chris_Malachowsky"
  
 Thanks to Amy and Joel, the call was scheduled only a week after the initial email. I felt a bit anxious. I didn't feel ready to talk about the project, because he's an expert electrical engineer and I have not yet done extensive research on the theory and practice of parallel and GPU programming. I soon realized that there is no real reason to worry about asking basic questions, and that as an artist I have a good excuse to ask the most fundamental questions of all.
 
-I began to think about the reasons behind my interest in parallel computing and how the philosophy relates to technology.
+I began to think about the reasons behind my interest in parallel computing and how the philosophy relates to technology, some of whi are kept on my <a href="http://taeyoon-debug.tumblr.com/">debugview</a> blog.
 
 I downloaded CUDA platform and built some sample codes. The first one was Mandelbot which could be generated from GPU and CPU. It was clear to see the difference in frames per second.
 
-<img src="/public/img/cuda.jpg">
+<img src="/public/img/cuda.jpg" width="400">
 
 At about 2PM we got on the call. He was in his home office near San Jose and we were in Orbital.
 

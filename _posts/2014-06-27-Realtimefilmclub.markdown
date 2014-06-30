@@ -31,3 +31,5 @@ And peculiar it is. It turns out that it has incredibly mixed reviews. But rathe
 We hope to answer those questions together. Ultimately, what we want from Real-Time Film Club is to create a platform for collectively engaging different senses of time. Film is a good prompt for this, simply by having a special ability to pull us out of real time and put us into a different sense of it. It's also just nice to watch movies together. 
 
 What happens at future Real Time Film Club meetings will vary from one event to the next. The only commonality is that it makes use of real-time media (in its broadest sense, ranging from real-time broadcast soccer matches to 'real-time' films like Time Code). 
+
+**Special thanks to <a href="http://orbitalnyc.com/">Orbital</a> for hosting us.**  

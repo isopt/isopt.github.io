@@ -42,6 +42,8 @@ Julianne and Maxwell collaborated on a [Limited Edition Infinity](https://www.yo
 
 ![](https://farm4.staticflickr.com/3887/14946633439_109822ca6a_z.jpg)
 
+***
+
 In previous weekend, the artists hosted the same workshop at [Orbital](http://orbitalnyc.com/) in New York City. Friends and members of the community participated to make their own timekeepers. [Ishac Bertran](https://www.youtube.com/watch?v=hRJ-zU7EPMM&list=PLXfQk5ShZ9LZzlrO3N35vJfepFlyB52Pp&index=14) created a binary clock based on the concept of flip flop and [Ellie Irons](https://www.youtube.com/watch?v=RN5kxRrqOiU&index=16&list=PLXfQk5ShZ9LZzlrO3N35vJfepFlyB52Pp) created multidimensional timekeeper based on phenology and academic calendar year. [Lauren McCarthy](https://www.youtube.com/watch?v=Ln4e6Fe9oQE&list=PLXfQk5ShZ9LZzlrO3N35vJfepFlyB52Pp&index=12) animated a story about lovers frustration with different sense of time, and [Dan Phiffer](https://www.youtube.com/watch?v=PPlDSJ-7gLA&list=PLXfQk5ShZ9LZzlrO3N35vJfepFlyB52Pp&index=10) talked about different ways to avoid indication of time on a smart phone.
 
 ![](https://farm4.staticflickr.com/3870/14947474808_52d76f3aec_z.jpg)
@@ -51,5 +53,7 @@ In previous weekend, the artists hosted the same workshop at [Orbital](http://or
 Through this collaborative thought exercise, Taeyoon and E Roon are trying to provide an opportunity to rethink about time and to give form to our perception of time. Some aspects of the kits and workshop are based on commentary of our obsession of 'personalization' in ownership and customization of digital device as well as in its mediation of communication and our sense of presence. By making conceptual timekeepers with common materials, the workshop is an encouragement to craft everyone's sense of time.  
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/KWhb1elqhFA?list=PLXfQk5ShZ9LZzlrO3N35vJfepFlyB52Pp" frameborder="0" allowfullscreen></iframe>
+
+***
 
 The artists are planning to do third incarnation of Timekeeper Invention Club at [Design Exchange Boston](http://www.dxboston.com/session/timekeeper-invention-club/) on 9.28.2014 and continue to explore personal sense of time and archive short videos of other people's inventions on the [youtube](https://www.youtube.com/playlist?list=PLXfQk5ShZ9LZzlrO3N35vJfepFlyB52Pp) channel.

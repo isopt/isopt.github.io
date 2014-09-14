@@ -32,6 +32,7 @@ Next step was a collective brainstorming with the participant. Using the keyword
 
 ![](https://farm4.staticflickr.com/3848/15133336105_e756a2ee14_z.jpg)
 
+***
 
 The final step was for the participants to demonstrate their timekeeper's functionality and story in front of camera for 1 minute. There were wide range of outcome. Jake, a young boy, in collaboration with his father, [made a watch](https://www.youtube.com/watch?v=JwSVnsNdwWw) that the speed of time passing can be controlled by a knob. The dial reads from 1 to 14th hour and it's minute hand and hour hand are glued together, thus the hands are always 90 degrees apart. In the video, he demonstrates rolling of the clock hands and guessing where it has landed, simialr to the wheel of fortune.
 

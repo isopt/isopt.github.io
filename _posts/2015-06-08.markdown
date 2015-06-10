@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "ISOPT 7.18~7.19"
+date:   2015-06-8 14:00:00
+categories:
+author: Taeyoon Choi
+---
+For the schedule, here's our proposal based on your suggestion. 
+
+10:00am–12:00pm: Set up the Lab and mobile station outside in garden (station will be stationed off and guard can invite curious passerby to the performance later that day.) 
+
+12:00–1:00pm: Workshop Part 1 Introduction: Personalized Time 
+Introduction, presentation in the lab. Practice and technology trial run in the garden - participants familiarize themselves with devices in the garden. 
+2:00–4:00pm: Performance in the garden and the public is invited to participate. Participants may explore other parts of the museum.  Detail of their experience in the Program section. 
+2:30–4:00pm: Video interview in Lab, sharing experiences. 
+
+4:00–4:30pm: Workshop Part 2 Introduction: Consensus Time
+4:30–5:30pm: Defining their consensus time, exchange contact and wrap up.
+5:30–6:00pm: Live Implementation of the Consensus Time
+6:00–6:30pm: Clean up and close the Lab. 
+
+The schedule for Saturday and Sunday is identical. If we gear toward youth and elderly participants in the Sunday, we may consider making the program tighter. 
+
+Program. 
+The 6 hours program in Saturday and Sunday that's open to the registered participants. The museum visitors may engage in a limited interaction with the piece as well.  
+
+The participants arrive at 12pm. There is an introduction from the artists explaining the Personal Timekeepers, what the participants can expect to do during their time at the museum, and that the wrap up of the program is going to involve making a video as well as a discussion about their experience. 
+
+After that, everyone will be given their own Personal Timekeeper and instructed through setting it up. During this initialization, they press and hold the button on the Personal Timekeeper to set the amount of time they think one minute is, without looking at the watch or other people's help. This recorded minute can vary from 30 seconds to 90 seconds (we set those parameters to allow for a reasonable time participants can reconvene for the video and discussion), and then the Personal Timekeeper starts keeping time using that 'personal' minute instead of a normal minute of 60 seconds. We will refer to this newly created time as Personal Time (PRT).
+
+At 1pm PDT (Pacific Daylight Saving Time), they are instructed to explore the spaces in the museum with other participants; alone and in small groups through game mechanics that are explained in the booklet. We will elaborate on the details of the ways of engaging through in the follow up. 
+
+The participants are instructed to return to the garden when their Personal Timekeeper reads 3pm. In other words, at 3pm PRT.
+
+As their Personal Times vary, the participants will all arrive at different times in PDT, between 1:30pm and 4pm, depending on how they initially set their Personal Timekeeper, and how they interacted with the device (more explanation on below).
+
+The technical mechanism of the time drift (their Personal Time going out of sync from the standard time, PDT) can be explained as following:

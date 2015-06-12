@@ -24,7 +24,7 @@ We brainstormed about the name for the event.
 - ~~Bureau~~
 - Order 
 
-And we crossed out the ones which felt a bit too institutional and rigit. What we want is a sense of open ended event where the participants will explore these concepts with us. 
+And we crossed out the ones which felt a bit too institutional and rigid. What we want is a sense of open ended event where the participants will explore these concepts with us. 
 
 The secret society feels like Bataille's Acephale. 
 
@@ -64,15 +64,59 @@ And we paused to think about what would be the exeperience we are trying to deli
 - Introduce to new ways of looking and events nad memories.
 - It's a make-believe and simulation of time.
 
-##Personalized time 
+In the end we have
 
-![](https://bythelist.files.wordpress.com/2013/05/img_2031.jpg=600x)
+- Past - Present - Future Invention Circle 
+- The society of Past - Present - Future 
+- **The Circle of Past - Present - Future  Invention**
+- **Circle of Moment Measurement** 
+- Committee of personalization and measurement of moment 
+- New Moment Measurement Circle 
+
+
+
+##The prompts for the personalized time 
+
+![](https://farm9.staticflickr.com/8838/18560732538_0b9ba6bd31_z.jpg=400x)
+
+---1---
+- Find a place to sit down comfortably 
+- Close your eyes 
+- Meditate
+- Listen to the sound 
+
+---2--- 
+- Follow someone specific 
+- Be in presence of another person
+- Talk to them, engage with them through the device
+
+---3---
+- Scavenger hunt 
+- Bring back something, like an object (Pebbles, grass, something free) 
+- Write down something , draw something
+
+![](https://farm1.staticflickr.com/337/18126280034_8e11429b8c_z.jpg)
+
 
 ##Schedule 
 In the response to our previous email, Joel asked if we can host the Saturday event as private and Sunday as open to the public. We also think that's a good idea. 
 
 *"We talked about your news suggestion and we think it's a good idea. Let's keep the Saturday event private as a 'Beta test' with invited friends, artists and LACMA Art + Tech Lab community. Sunday event will be as open as possible for LACMA audience to experience the piece. We think we can create an engaging experience between 12~4pm on Sunday."* - from my email. 
  
+#Hardware spec
+
+
+Jon Moeller and I ordered the hardware to prototype. We are hoping to assemble three working prototypes as soon as possible. 
+
+- Raspberry Pi 2 - Model B - ARMv7 with 1G RAM 
+- Adafruit FONA - Mini Cellular GSM Breakout - SMA Version - v1 
+- GSM 2G SIM Card from Ting & Adafruit - Data/Voice/Text USA Only
+- Right-angle Mini GSM/Cellular Quad-Band Antenna - 2dBi SMA Plug
+- Adafruit 1.2" 4-Digit 7-Segment Display w/I2C Backpack
+- AmazonBasics Portable Power Bank with Micro USB Cable - 2,000 mAh
+- SanDisk Ultra 8GB UHS-I/Class 10 Micro SDHC Memory Card Up To 48MB/s With Adapter- SDSDQUAN-008G-G4A [Newest Version] 
+
+Wonyoung and E Roon has been working on setting up the NTP server. 
 
 ##Exterior design
 Now that all the electronic parts for the hardware is ordered and on it's way, we began to sketch out. E Roon made a quick prototype with Tuna Can and masking tapes. 
@@ -101,24 +145,7 @@ This is the image of electronic hardware. The further out is the Seven segment n
 
 Here's Charlotte. 
 
-
-
-##The prompts for the personalized time 
-
-![](https://farm9.staticflickr.com/8838/18560732538_0b9ba6bd31_z.jpg=400x)
-
-- Find a place to sit down comfortably 
-- Close your eyes 
-- Meditate
-- Listen to the sound 
-
-- Follow someone specific 
-- Be in presence of another person
-- Talk to them, engage with them through the device
-
-- Scavenger hunt 
-- Bring back something, like an object (Pebbles, grass, something free) 
-- Write down something , draw something
+ 
 
 ##Pamphlets
 

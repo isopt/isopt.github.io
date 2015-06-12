@@ -73,7 +73,9 @@ In the end we have
 - Committee of personalization and measurement of moment 
 - New Moment Measurement Circle 
 
+![](https://farm1.staticflickr.com/472/18561334418_c0b875fa3d.jpg)
 
+We decided to give prompts for the participants when they went out with the personal timekeepers. It will be paired up with cold water and cookie, and maybe Gimbab. 
 
 ##The prompts for the personalized time 
 
@@ -117,6 +119,7 @@ Jon Moeller and I ordered the hardware to prototype. We are hoping to assemble t
 - SanDisk Ultra 8GB UHS-I/Class 10 Micro SDHC Memory Card Up To 48MB/s With Adapter- SDSDQUAN-008G-G4A [Newest Version] 
 
 Wonyoung and E Roon has been working on setting up the NTP server. 
+![](https://farm9.staticflickr.com/8839/18128452463_52ea5cec29_z.jpg)
 
 ##Exterior design
 Now that all the electronic parts for the hardware is ordered and on it's way, we began to sketch out. E Roon made a quick prototype with Tuna Can and masking tapes. 

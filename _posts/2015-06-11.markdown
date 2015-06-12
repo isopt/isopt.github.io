@@ -88,6 +88,18 @@ The Tuna is actually a gift from David Horvitz, whose work I mentioned during th
 
 Charlotte made some sketch ups. 
 
+![](https://farm1.staticflickr.com/378/18560858760_4d4c635e39_z.jpg)
+
+These are the dimensions.
+
+![](https://farm1.staticflickr.com/558/18751035121_542ef76b31_z.jpg)
+
+This is the image of electronic hardware. The further out is the Seven segment number display, middle one is the Raspberry Pi computer and the last one is the battery. 
+
+
+![](https://farm1.staticflickr.com/472/18126148293_b0d00c5abe_z.jpg)
+
+Here's Charlotte. 
 
 
 
@@ -113,7 +125,4 @@ Charlotte made some sketch ups.
 - Printed object
 - Something that’s personalized for them.
 - The prompts are noted in the pamphlets. It’s like a check list of things to do
-
-
-
-
+ 

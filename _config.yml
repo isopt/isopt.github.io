@@ -1,14 +1,14 @@
 # Dependencies
 markdown:         redcarpet
-pygments:         true
+highlighter:         pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
 title:            "I&mdash;S&mdash;O&mdash;P&mdash;T"
-tagline:          "In search of Personalazed Time"
-description:      "In search of Personalazed Time, Project by Taeyoon Choi and E Roon Kang. 2014–2015, Art + Technology Project, Los Angeles County Museum of Art (LACMA)"
+tagline:          "In Search of Personalized Time"
+description:      "In Search of Personalized Time, Project by Taeyoon Choi and E Roon Kang. 2014–2015, Art + Technology Project, Los Angeles County Museum of Art (LACMA)"
 url:              "http://isopt.github.io/"
 
 author:
@@ -16,7 +16,7 @@ author:
   url:            https://eroonkang.com
 
 paginate:         1
-
+paginate_path:     "/blog/page:num/"
 # Custom vars
 version:          1.0.0
 

@@ -128,10 +128,14 @@ dd {
 hr {
   position: relative;
 <<<<<<< HEAD
+<<<<<<< HEAD
   margin: 2rem 0;
 =======
   margin: 3.5rem 0;
 >>>>>>> origin/master
+=======
+  margin: 3.5rem 0;
+>>>>>>> 1e5263d499d81bab0cc9e19d1979eae0ef6f76fe
   border: 0;
   border-bottom: 1px dotted #ccc;
 }

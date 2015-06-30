@@ -5,7 +5,7 @@ title: People
 
 ###Taeyoon Choi
 
-Taeyoon Choi makes art with electronic circuits, drawing, storytelling and interventions in public space. Taeyoon often collaborates with other artists and activists to realize socially engaged projects and participatory experiences. He has served as a committee member for The Public School New York and fellow at Eyebeam Art + Technology Center. He is the co-founder of [School for Poetic Computation](http://sfpc.io/), an artist run school with the motto “More Poems, Less Demos” based in New York City, where he teaches electronics and other topics. Recently, he has curated exhibitions and education programs for the [Anyang Public Art Festival](http://apap.or.kr/en/intro) in South Korea, where he directs Making Lab, a makerspace focusing on artist-community collaboration. Taeyoon lives in Brooklyn.
+Taeyoon Choi makes art with electronic circuits, drawing, storytelling and interventions in public space. Taeyoon often collaborates with other artists and activists to realize socially engaged projects and participatory experiences. He has served as a committee member for The Public School New York and fellow at Eyebeam Art + Technology Center. He is the co-founder of [School for Poetic Computation](http://sfpc.io/), an artist run school with the motto “More Poems, Less Demos” based in New York City, where he teaches electronics and other topics. Recently, he has curated exhibitions and education programs for the [Anyang Public Art Festival](http://apap.or.kr/en/intro) in South Korea, where he directed Making Lab, a makerspace focusing on artist-community collaboration. Taeyoon lives in Brooklyn.
 
 *[taeyoonchoi.com](http://taeyoonchoi.com)*
 
@@ -18,6 +18,22 @@ E Roon Kang lives and works in New York, where he operates [Math Practice](http:
 *[eroonkang.com](http://eroonkang.com)*
 
 ---
+
+###Jon Moeller, Engineer 
+
+Jon Moeller is an artist and engineer working at the boundaries between physical media and digital representation. As an engineer, he develops computational/electronic architectures, systems, and products affording communication and conveyance between the world of bits and the world of atoms.  As an artist, he creates work that explores how digitized abstractions distort, alter, and amplify sensual experiences. His work has been profiled in TIME, New Scientist, and other popular science publications, enabled a large-scale interactive art installation at Design Miami/Basel in 2014, and most recently, installed in the Nobel Peace Center in Oslo, Norway.
+
+*[Moeller](http://moeller.io)*
+
+---
+###Charlotte Stiles, Project Assistant
+
+As of 2015 Charlotte Stiles is a sophomore pursuing a degree in computer science and fine arts with a minor in media design at Carnegie Mellon University, traveling back and forth between New York City and Pittsburgh. She constructs artifacts and experiences that focus on the crossover of art and technology. 
+
+*[charlottestiles.com](charlottestiles.com)*
+
+---
+
 ###Nick Irvin, Research Assistant
 
-Nick Irvin is a writer, critic, and curator based in Brooklyn by way of Portland, Oregon. His writing has appeared in [Art in America Magazine](http://www.artinamericamagazine.com/search/Nick+Irvin/), and is forthcoming through arrangements that are not yet matters of public record. He has worked for [Triple Canopy](http://www.canopycanopycanopy.com), [David Zwirner](http:/www.davidzwirner.com), and the [Ad Reinhardt Foundation](http://www.adreinhardt.org), and is currently Research Assistant at [Public Art Fund](http://www.publicartfund.org/). He went to Reed College, where he majored in art history and thought a lot about diagrams.
+Nick Irvin is a writer, critic, and curator based in Brooklyn by way of Portland, Oregon. His writing has appeared in [Art in America Magazine](http://www.artinamericamagazine.com/search/Nick+Irvin/), and is forthcoming through arrangements that are not yet matters of public record. He has worked for [Triple Canopy](http://www.canopycanopycanopy.com), [David Zwirner](http:/www.davidzwirner.com), and the [Ad Reinhardt Foundation](http://www.adreinhardt.org), and was a Research Assistant at [Public Art Fund](http://www.publicartfund.org/). He went to Reed College, where he majored in art history and thought a lot about diagrams.

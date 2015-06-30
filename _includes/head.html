@@ -76,4 +76,22 @@
   woopra.track();
   </script>
   <!-- End of Woopra Code -->
+
+  <!-- custom script -->
+
+      <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+      <script src="/public/js/retina.min.js"></script>
+      <script src="/public/js/jquery-blink.js"></script>
+      <script>
+        $( document ).ready(function() {
+
+          $('.masthead-title').blink({delay:1000});
+          $('.drawings').mouseover(function() {
+            $(this).hide().delay( 800 ).fadeIn( 400 );;
+          });
+
+        });
+      </script>
+    <!-- end custom -->
 </head>

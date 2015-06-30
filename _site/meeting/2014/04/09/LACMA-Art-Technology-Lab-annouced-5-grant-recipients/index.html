@@ -77,17 +77,43 @@
   woopra.track();
   </script>
   <!-- End of Woopra Code -->
+
+  <!-- custom script -->
+
+      <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+      <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+      <script src="/public/js/retina.min.js"></script>
+      <script src="/public/js/jquery-blink.js"></script>
+      <script>
+        $( document ).ready(function() {
+
+          $('.masthead-title').blink({delay:1000});
+          $('.drawings').mouseover(function() {
+            $(this).hide().delay( 800 ).fadeIn( 400 );;
+          });
+
+        });
+      </script>
+    <!-- end custom -->
 </head>
 
 
   <body>
-
+<div class="overlay">
+  <img src="/public/img/img1.png" id="drawing-1" class="drawings">
+  <img src="/public/img/img2.png" id="drawing-2" class="drawings">
+  <img src="/public/img/img3.png" id="drawing-3" class="drawings">
+  <img src="/public/img/img4.png" id="drawing-4" class="drawings">
+  <img src="/public/img/img5.png" id="drawing-5" class="drawings">
+  <img src="/public/img/img6.png" id="drawing-6" class="drawings">
+  <img src="/public/img/img7.png" id="drawing-7" class="drawings">
+</div>
     <div class="container content tk-adobe-text-pro">
       <div class="masthead">
         <h3 class="masthead-title">
           <a href="/" title="Home">I&mdash;S&mdash;O&mdash;P&mdash;T</a>
         </h3>
-        <h4>In Search of Personalized Time</h4>
+        <!--<h4>In Search of Personalized Time</h4>-->
         <div class="nav">
           <ul>
             
@@ -125,8 +151,6 @@
 
 <p><a href="http://artsbeat.blogs.nytimes.com/2014/04/09/los-angeles-museum-grants-to-promote-art-and-technology/">Link</a>  </p>
 
-<p><img src="https://farm8.staticflickr.com/7352/14025203315_581167792f_z.jpg"></p>
-
 <h3>Architect magazine</h3>
 
 <p><a href="http://www.architectmagazine.com/arts-and-culture/lacma-selects-five-recipients-for-its-inaugural-art--technology-lab-grant-awards_o.aspx">Link</a></p>
@@ -134,15 +158,15 @@
 <p><img src="https://farm6.staticflickr.com/5533/14025202525_9c58f9122b_z.jpg"></p>
 
 </div>
-
 <div class="related">
+  <hr class="dark">
   <h2>Related Posts</h2>
   <ul class="related-posts">
     
       <li>
         <h3>
           <a href="/2015/06/20/CircleofMomentMeasurement/">
-            Circle of moment measurement: 7.18 & 7.19
+            Circle of Moment Measurement: 7/18 – 19
             <small>20 Jun 2015</small>
           </a>
         </h3>

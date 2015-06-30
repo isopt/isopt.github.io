@@ -49,17 +49,17 @@ body {
 
 html {
   font-family:"Times New Roman",Georgia,Serif;
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 16px;
+    font-size: 18px;
   }
 }
 
 body {
-  color: #515151;
+  color: #000;
   background-color: #ebebeb;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -129,7 +129,14 @@ hr {
   position: relative;
   margin: 2rem 0;
   border: 0;
-  border-bottom: 1px dotted #ccc;
+  border-bottom: 1px dotted #000;
+}
+
+hr.dark {
+  position: relative;
+  margin: 2rem 0;
+  border: 0;
+  border-bottom: 1px solid #000;
 }
 
 abbr {
@@ -282,7 +289,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .container {
-  max-width: 720px;
+  max-width: 840px;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -361,6 +368,11 @@ a.outer:hover {
 .page,
 .post {
   margin: 2em 0;
+}
+
+.callout {
+  font-size:1rem;
+  line-height:1.4em;
 }
 
 /* Blog post or page title */
@@ -522,4 +534,17 @@ ul.post-list li:last-child {
 caption {
   //font-size:0.9em;
   font-style:italic;
+}
+
+.drawings {position:fixed;}
+#drawing-1 { left:12%;	top:150px;}
+#drawing-2 { left:80%;	top:625px;}
+#drawing-3 { left:25%;	top:825px;}
+#drawing-4 { left:80%;	top:65px;}
+#drawing-5 { left:70%;	top:960px;}
+#drawing-6 { left:5%;	top:550px;}
+#drawing-7 { left:60%;	top:390px;}
+
+.hero {
+  margin: 5em auto;
 }

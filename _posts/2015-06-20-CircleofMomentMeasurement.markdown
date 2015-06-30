@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Circle of moment measurement: 7.18 & 7.19"
+title:  "Circle of Moment Measurement: 7.18 & 7.19"
 date:   2015-06-20 14:00:00
 categories:
 author: Taeyoon Choi
@@ -10,7 +10,7 @@ author: Taeyoon Choi
 
 What is time really?  As humanity, we collectively agree on using Universal Time as a standard to keep things in order in an increasingly synchronized and complex society. However, is it the only way to measure your time on this earth? What if we re-design time based off of your perception of moments?
 
-By being part of the Circle of moment measurement, you will collectively agree to all live by different times. Everyone in this participatory performance will discover their own personalized speed of time that is kept in portable and networked timekeeping devices, designed by the artists with support of LACMA Art + Technology Lab.
+By being part of the Circle of Moment Measurement, you will collectively agree to all live by different times. Everyone in this participatory performance will discover their own personalized speed of time that is kept in portable and networked timekeeping devices, designed by the artists with support of LACMA Art + Technology Lab.
 
 In this participatory performance, there will be a chance to experience the public spaces in LACMA in your own time. After that a conversation about how the new forms of time measurement would affect life would follow, as well as a opportunity to share the experience with the world.  
 

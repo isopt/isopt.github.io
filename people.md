@@ -23,7 +23,7 @@ E Roon Kang lives and works in New York, where he operates [Math Practice](http:
 
 Jon Moeller is an artist and engineer working at the boundaries between physical media and digital representation. As an engineer, he develops computational/electronic architectures, systems, and products affording communication and conveyance between the world of bits and the world of atoms.  As an artist, he creates work that explores how digitized abstractions distort, alter, and amplify sensual experiences. His work has been profiled in TIME, New Scientist, and other popular science publications, enabled a large-scale interactive art installation at Design Miami/Basel in 2014, and most recently, installed in the Nobel Peace Center in Oslo, Norway.
 
-*[Moeller](http://moeller.io)*
+*[moeller.io](http://moeller.io)*
 
 ---
 
@@ -31,11 +31,15 @@ Jon Moeller is an artist and engineer working at the boundaries between physical
 
 Wonyoung So is a data visualization designer that specializes in combining computational analysis and narratives, in particular, network visualization and mapping the invisible. Wonyoung is also interested in developing (creative) systems. He is a data visualization specialist at [SENSEable City Laboratory](http://senseable.mit.edu) at MIT. He was previously one of the founding members of the crowdfunding platform [Tumblbug](https://tumblbug.com) which is the largest one in South Korea. His work has been recognized and exhibited by Adobe and Lift Conference, among others.
 
+*[wonyoung.so](http://wonyoung.so/)*
+
 ---
 
 ###Anastasis Germanidis, Engineer
 
 Anastasis Germanidis is a Greek artist, engineer, and researcher based in New York City. He creates software frameworks and participatory performances that investigate the potential or realized effects of communication technologies and algorithmic systems on the way we view ourselves and conduct our lives. His recent work includes Fickle News, a news site that responds to your facial expressions, and Human Action Code, an API for generating human behavior. He holds a degree in Computer Science from Wesleyan University.
+
+*[agermanidis.com](http://agermanidis.com/)*
 
 ---
 

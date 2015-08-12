@@ -20,7 +20,7 @@ The Personal Timekeeper is designed to enable experiencing time differently, mor
 
 ![](https://farm6.staticflickr.com/5637/20331698940_7ff049e618.jpg =500x)
 
-The Personal Timekeeper is initialized by pressing down the button for how long you think is a minute. After releasing the button, the Personal Timekeeper proceeds the time on the speed based on your perceptual minute — If your perceptual minute was 30 seconds, your 1 minute is going to be very fast (30 seconds in Universal Time). Your time is constantly broadcasted on the project website under custom URL.
+The Personal Timekeeper is initialized by pressing down the button for how long you think is a minute. After releasing the button, the Personal Timekeeper proceeds the time on the speed based on your perceptual minute — If your perceptual minute was 30 seconds, your 1 minute is going to be very fast (30 seconds in Universal Time). Your time is constantly broadcasted on the Circle for Moment Measurement [website](http://moment.isopt.info/) under custom URL.
 
 ![](https://farm6.staticflickr.com/5756/20519806155_5bc1139b72.jpg)
 
@@ -30,7 +30,7 @@ The second feature is holding down the button to mark a moment. The moment is de
 
 ![](https://farm6.staticflickr.com/5756/20519806155_5bc1139b72.jpg)
 
-In this picture, you can see the moments I held down the button over the course of the day.
+In this picture, you can see the times and durations when I pressed the button over the course of few days. These are the markings of moment in time. 
 
 You can also trigger prompts (instructions and suggestions) to spend your time. When the Personal Timekeepers are triggered by a quick tap on the button, a random choice of prompts including the following are assigned.
 
@@ -84,11 +84,12 @@ In the final stage of the workshop, the participants joined a roundtable about t
 
 ![](https://farm6.staticflickr.com/5776/20493557966_822e2c2b2e.jpg)
 
-The conversation renewed our interest about the multiplicities of times. After about an hour of conversation, we didn’t get to reach the consensus. Maybe that’s rather revealing about the nature of consensus. However, on the process we agreed to live in this moment, and to reflect that we have already made a consensus to be present here and now. It may have been an unachievable question to begin with. After all, similarly to the ‘moment’, an intentionally obscure term that may mean anything, Consensus was intentionally designed to provoke conversation. On the first day, we agreed that we can’t reach a consensus, and the on the second day we listed up a guidance for the consensus which every participant contributed one statement. Everyone got three stickers to pick their choice, an exercise in primitive democracies of time. We returned to our initial curiosity. If everyone’s time is different, can we create a bottom up approach to determining time, and what would democracy of time? We still don't have answers to it, we have few more leads compared to the time we started our project.
+The conversation renewed our interest about the multiplicities of times. After about an hour of conversation, we didn’t get to reach the consensus. Maybe that’s rather revealing about the nature of consensus. However, on the process we agreed to live in this moment, and to reflect that we have already made a consensus to be present here and now. It may have been an unachievable question to begin with. After all, similarly to the ‘moment’, an intentionally obscure term that may mean anything, Consensus was intentionally designed to provoke conversation. On the first day, we agreed that we can’t reach a consensus, and the on the second day we listed up a guidance for the consensus which every participant contributed one statement. Everyone got three stickers to pick their choice, an exercise in primitive democracies of time. We returned to our initial curiosity. If everyone’s time is different, can we create a bottom up approach to determining time, and what would be the democracy of time? We still don't have answers to it, we just have few more leads since the time we started our project.
 
 
 <iframe width="640" height="360" src="//www.youtube.com/embed/YF_W7o2YfyA
 " frameborder="0" allowfullscreen></iframe>
 
+To watch the longer edit, check out [this version](https://www.youtube.com/watch?v=anycci3nKhY) and [pictures](https://www.flickr.com/photos/80913365@N04/sets/72157657091546896). Also check out an article by Amy Heibel on LACMA's blog [Unframed](http://unframed.lacma.org/2015/08/12/artists-choi-and-kang-bend-time-lacma).
 
-Special thanks to Joel Ferree and Amy Heibel of LACMA.
+Special thanks to Joel Ferree and Amy Heibel of LACMA. Jon Moeller, Charlotte Stiltes, Wonyoung So, Kurt Keppeler for video and Drunkin for photographs. Also big thanks to all of the workshop participants. 

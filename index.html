@@ -10,8 +10,20 @@ title: Home
   <p><a href="/about">Read more...</a></p>
   <img src="/public/img/cmm.png" class="hero">
 </div>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/anycci3nKhY" frameborder="0" allowfullscreen></iframe>
 <hr class="dark">
-<div class="posts">
+
+<ul class="post-list">
+{% for post in site.posts %}
+  <li>
+    <span class="post-list-date">{{ post.date | date_to_string }}</span>
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    {{ post.excerpt }}
+  </li>
+{% endfor %}
+</ul>
+
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
@@ -25,7 +37,7 @@ title: Home
     {{ post.content }}
   </div>
   {% endfor %}
-</div>
+</div> -->
 <!--
 <div class="pagination">
   {% if paginator.next_page %}
